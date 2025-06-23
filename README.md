@@ -28,3 +28,7 @@ During this project, I gained hands-on experience working with real-time web tec
 
 The final deliverable included all source code, a working demo, and documentation on how to set up and test the application locally. It can be further enhanced by adding features like user presence tracking, chat integration, cursor sharing, access control, or even integrating a rich-text editor like CodeMirror or Quill.js for better code editing and formatting support. Overall, this task showcased my ability to design and implement a functional, multi-user collaborative tool using WebSocket-based communication.
 
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/6aeea7f6-6602-4d89-8c50-e8821d103f34)
+
